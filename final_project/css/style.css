@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Stoke&display=swap');
+
+body{
+  color:pink;
+background-color: #4d79ff;
+font-family:"Roboto", sans-sans-serif;
+
+}
+
+h1{
+text-align: center;
+text-transform: uppeercase;
+text-decoration: underline;
+letter-spacing: 1px;
+}
+
+h2{
+  font-size: 30px;
+  font-weight: normal;
+  font-style: italic;
+}
